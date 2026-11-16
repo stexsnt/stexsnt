@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stexsnt
 - 👀 I’m interested in Python, Maths, IA & SNT ... 
-- 🌱 I’m currently Python
+- 🌱 I’m currently learning Python
 
 <!---
 stexsnt/stexsnt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
